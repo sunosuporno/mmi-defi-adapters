@@ -2839,6 +2839,47 @@
       }
     ]
   },
+  "0xc583e81bb36a1f620a804d8af642b63b0ceeb5c0": {
+    "protocolToken": {
+      "address": "0xc583e81bb36a1f620a804d8af642b63b0ceeb5c0",
+      "name": "PayPool Convex Deposit",
+      "symbol": "cvxPYUSDUSDC",
+      "decimals": 18
+    },
+    "underlyingTokens": [
+      {
+        "address": "0x5ab30fc2bc41f585d70a5953c675ca981e6a64da",
+        "name": "Convex Token",
+        "symbol": "CVX",
+        "decimals": 18,
+        "claimableTrackerAddress": "0x6dF312B6367F53e4b7875738d32DE7925A72a1CF"
+      },
+      {
+        "address": "0x85d81ee851d36423a5784cd3cb6f1a1193cb5978",
+        "name": "PayPal USD",
+        "symbol": "PYUSD",
+        "decimals": 6,
+        "claimableTrackerAddress": "0x22A0a706Aa423E2257e4217be2268e0374b9229f"
+      }
+    ]
+  },
+  "0x633556c8413fcfd45d83656290ff8d64ee41a7c1": {
+    "protocolToken": {
+      "address": "0x633556c8413fcfd45d83656290ff8d64ee41a7c1",
+      "name": "pxETH/stETH Convex Deposit",
+      "symbol": "cvxpxsteth",
+      "decimals": 18
+    },
+    "underlyingTokens": [
+      {
+        "address": "0xc18f381086ead247602413524aef54e02d614bd0",
+        "name": "Convex Token",
+        "symbol": "CVX",
+        "decimals": 18,
+        "claimableTrackerAddress": "0xAcd98273Ed207331d86d9640AfbB4397A0C2C85B"
+      }
+    ]
+  },
   "0xe627082369689b2b86d948c377a4ae4e739c59ee": {
     "protocolToken": {
       "address": "0xe627082369689b2b86d948c377a4ae4e739c59ee",
@@ -2856,6 +2897,23 @@
       }
     ]
   },
+  "0x062450b06eb92f1c4e227c41c987ed97c93ae232": {
+    "protocolToken": {
+      "address": "0x062450b06eb92f1c4e227c41c987ed97c93ae232",
+      "name": "FRAXFPI Convex Deposit",
+      "symbol": "cvxFRAXFPI",
+      "decimals": 18
+    },
+    "underlyingTokens": [
+      {
+        "address": "0x88667f23e749bf945bf3de5b1d53a7bb2b8b690f",
+        "name": "Convex Token",
+        "symbol": "CVX",
+        "decimals": 18,
+        "claimableTrackerAddress": "0x768F628d27a2C8783B89Ff849d832870c265BC2E"
+      }
+    ]
+  },
   "0xb10a6e39ed8a66fed3aaef3866a95611a49b9a95": {
     "protocolToken": {
       "address": "0xb10a6e39ed8a66fed3aaef3866a95611a49b9a95",
@@ -2870,6 +2928,23 @@
         "symbol": "CVX",
         "decimals": 18,
         "claimableTrackerAddress": "0xf80Ac382cD8c19323dE5327fD3920c974138b921"
+      }
+    ]
+  },
+  "0xf2be647c432e90b0e1111b279f69e77d2548eee6": {
+    "protocolToken": {
+      "address": "0xf2be647c432e90b0e1111b279f69e77d2548eee6",
+      "name": "alETH/wETH Convex Deposit",
+      "symbol": "cvxalETHwETH",
+      "decimals": 18
+    },
+    "underlyingTokens": [
+      {
+        "address": "0x1e2443d28d34815e50ce36c12f3d629875acdd3c",
+        "name": "Convex Token",
+        "symbol": "CVX",
+        "decimals": 18,
+        "claimableTrackerAddress": "0x3921fddf91eDf9C618FF9FE54c83c33F04E87114"
       }
     ]
   }

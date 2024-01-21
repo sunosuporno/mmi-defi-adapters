@@ -167,6 +167,16 @@
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
+  "0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d": {
+    "address": "0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d",
+    "name": "Biconomy",
+    "symbol": "BICO",
+    "decimals": 18,
+    "uniswapFee": 10000,
+    "baseAddress": "0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d",
+    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "isBaseTokenEth": false
+  },
   "0x2297aebd383787a160dd0d9f71508148769342e3": {
     "address": "0x2297aebd383787a160dd0d9f71508148769342e3",
     "name": "Bitcoin",
@@ -407,6 +417,16 @@
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
+  "0x7698ac5d15bb3ba7185adcbff32a80ebd9d0709b": {
+    "address": "0x7698ac5d15bb3ba7185adcbff32a80ebd9d0709b",
+    "name": "GNOME",
+    "symbol": "GNOME",
+    "decimals": 18,
+    "uniswapFee": 10000,
+    "baseAddress": "0x7698ac5d15bb3ba7185adcbff32a80ebd9d0709b",
+    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "isBaseTokenEth": false
+  },
   "0x80bb30d62a16e1f2084deae84dc293531c3ac3a1": {
     "address": "0x80bb30d62a16e1f2084deae84dc293531c3ac3a1",
     "name": "Granary",
@@ -454,6 +474,16 @@
     "decimals": 18,
     "uniswapFee": 10000,
     "baseAddress": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d",
+    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "isBaseTokenEth": false
+  },
+  "0x56659245931cb6920e39c189d2a0e7dd0da2d57b": {
+    "address": "0x56659245931cb6920e39c189d2a0e7dd0da2d57b",
+    "name": "Impermax",
+    "symbol": "IBEX",
+    "decimals": 18,
+    "uniswapFee": 10000,
+    "baseAddress": "0x56659245931cb6920e39c189d2a0e7dd0da2d57b",
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
@@ -627,16 +657,6 @@
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
-  "0xbbea044f9e7c0520195e49ad1e561572e7e1b948": {
-    "address": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948",
-    "name": "Mizar",
-    "symbol": "MZR",
-    "decimals": 18,
-    "uniswapFee": 10000,
-    "baseAddress": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948",
-    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "isBaseTokenEth": false
-  },
   "0xfc77b86f3ade71793e1eec1e7944db074922856e": {
     "address": "0xfc77b86f3ade71793e1eec1e7944db074922856e",
     "name": "Mugen Finance",
@@ -654,26 +674,6 @@
     "decimals": 18,
     "uniswapFee": 10000,
     "baseAddress": "0xc74fe4c715510ec2f8c61d70d397b32043f55abe",
-    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "isBaseTokenEth": false
-  },
-  "0x982239d38af50b0168da33346d85fb12929c4c07": {
-    "address": "0x982239d38af50b0168da33346d85fb12929c4c07",
-    "name": "Arbitrove Governance Token",
-    "symbol": "TROVE",
-    "decimals": 18,
-    "uniswapFee": 10000,
-    "baseAddress": "0x982239d38af50b0168da33346d85fb12929c4c07",
-    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "isBaseTokenEth": false
-  },
-  "0x4dad357726b41bb8932764340ee9108cc5ad33a0": {
-    "address": "0x4dad357726b41bb8932764340ee9108cc5ad33a0",
-    "name": "NitroShiba",
-    "symbol": "NISHIB",
-    "decimals": 18,
-    "uniswapFee": 10000,
-    "baseAddress": "0x4dad357726b41bb8932764340ee9108cc5ad33a0",
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
@@ -967,16 +967,6 @@
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
-  "0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c": {
-    "address": "0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c",
-    "name": "Tender fi",
-    "symbol": "TND",
-    "decimals": 18,
-    "uniswapFee": 10000,
-    "baseAddress": "0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c",
-    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "isBaseTokenEth": false
-  },
   "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
     "name": "Tether USD",
@@ -1014,16 +1004,6 @@
     "decimals": 18,
     "uniswapFee": 10000,
     "baseAddress": "0x55678cd083fcdc2947a0df635c93c838c89454a3",
-    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "isBaseTokenEth": false
-  },
-  "0xc4663f169aafb1d4506ce189d63810e24a8b63ea": {
-    "address": "0xc4663f169aafb1d4506ce189d63810e24a8b63ea",
-    "name": "Turismo AI",
-    "symbol": "TURAI",
-    "decimals": 18,
-    "uniswapFee": 10000,
-    "baseAddress": "0xc4663f169aafb1d4506ce189d63810e24a8b63ea",
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
@@ -1194,16 +1174,6 @@
     "decimals": 18,
     "uniswapFee": 3000,
     "baseAddress": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
-    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "isBaseTokenEth": false
-  },
-  "0x155f0dd04424939368972f4e1838687d6a831151": {
-    "address": "0x155f0dd04424939368972f4e1838687d6a831151",
-    "name": "ArbiDoge",
-    "symbol": "ADOGE",
-    "decimals": 18,
-    "uniswapFee": 3000,
-    "baseAddress": "0x155f0dd04424939368972f4e1838687d6a831151",
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
@@ -1447,6 +1417,16 @@
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
+  "0xbbea044f9e7c0520195e49ad1e561572e7e1b948": {
+    "address": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948",
+    "name": "Mizar",
+    "symbol": "MZR",
+    "decimals": 18,
+    "uniswapFee": 3000,
+    "baseAddress": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948",
+    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "isBaseTokenEth": false
+  },
   "0xadd5620057336f868eae78a451c503ae7b576bad": {
     "address": "0xadd5620057336f868eae78a451c503ae7b576bad",
     "name": "noiseGPT",
@@ -1487,13 +1467,13 @@
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
-  "0x64343594ab9b56e99087bfa6f2335db24c2d1f17": {
-    "address": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17",
-    "name": "Vesta Stable",
-    "symbol": "VST",
+  "0x30dcba0405004cf124045793e1933c798af9e66a": {
+    "address": "0x30dcba0405004cf124045793e1933c798af9e66a",
+    "name": "Yieldification",
+    "symbol": "YDF",
     "decimals": 18,
     "uniswapFee": 3000,
-    "baseAddress": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17",
+    "baseAddress": "0x30dcba0405004cf124045793e1933c798af9e66a",
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
@@ -1717,16 +1697,6 @@
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },
-  "0x7ca0b5ca80291b1feb2d45702ffe56a7a53e7a97": {
-    "address": "0x7ca0b5ca80291b1feb2d45702ffe56a7a53e7a97",
-    "name": "Radiate Token",
-    "symbol": "RADT",
-    "decimals": 18,
-    "uniswapFee": 10000,
-    "baseAddress": "0x7ca0b5ca80291b1feb2d45702ffe56a7a53e7a97",
-    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "isBaseTokenEth": false
-  },
   "0x7f4638a58c0615037decc86f1dae60e55fe92874": {
     "address": "0x7f4638a58c0615037decc86f1dae60e55fe92874",
     "name": "Rigo Token",
@@ -1914,16 +1884,6 @@
     "decimals": 18,
     "uniswapFee": 3000,
     "baseAddress": "0x51f9f9ff6cb2266d68c04ec289c7aba81378a383",
-    "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "isBaseTokenEth": false
-  },
-  "0x965d00aa7abc62ca10132e641d08593435ac811d": {
-    "address": "0x965d00aa7abc62ca10132e641d08593435ac811d",
-    "name": "Kapital DAO Token",
-    "symbol": "KAP",
-    "decimals": 18,
-    "uniswapFee": 3000,
-    "baseAddress": "0x965d00aa7abc62ca10132e641d08593435ac811d",
     "quoteAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "isBaseTokenEth": false
   },

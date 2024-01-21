@@ -246,6 +246,16 @@
     "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "isBaseTokenEth": false
   },
+  "0xb35fcbcf1fd489fce02ee146599e893fdcdc60e6": {
+    "address": "0xb35fcbcf1fd489fce02ee146599e893fdcdc60e6",
+    "name": "DeRace Token",
+    "symbol": "DERC",
+    "decimals": 18,
+    "uniswapFee": 10000,
+    "baseAddress": "0xb35fcbcf1fd489fce02ee146599e893fdcdc60e6",
+    "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "isBaseTokenEth": false
+  },
   "0xe749ea14a2d18e361ed092ebefba64d77a8b4eac": {
     "address": "0xe749ea14a2d18e361ed092ebefba64d77a8b4eac",
     "name": "DigitexFutures (PoS)",
@@ -486,16 +496,6 @@
     "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "isBaseTokenEth": false
   },
-  "0xa486c6bc102f409180ccb8a94ba045d39f8fc7cb": {
-    "address": "0xa486c6bc102f409180ccb8a94ba045d39f8fc7cb",
-    "name": "Nash Exchange Token (PoS)",
-    "symbol": "NEX",
-    "decimals": 8,
-    "uniswapFee": 10000,
-    "baseAddress": "0xa486c6bc102f409180ccb8a94ba045d39f8fc7cb",
-    "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
-    "isBaseTokenEth": false
-  },
   "0x62a872d9977db171d9e213a5dc2b782e72ca0033": {
     "address": "0x62a872d9977db171d9e213a5dc2b782e72ca0033",
     "name": "NEUY (PoS)",
@@ -513,6 +513,16 @@
     "decimals": 18,
     "uniswapFee": 10000,
     "baseAddress": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
+    "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "isBaseTokenEth": false
+  },
+  "0x282d8efce846a88b159800bd4130ad77443fa1a1": {
+    "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
+    "name": "Ocean Token (PoS)",
+    "symbol": "mOCEAN",
+    "decimals": 18,
+    "uniswapFee": 10000,
+    "baseAddress": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
     "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "isBaseTokenEth": false
   },
@@ -623,6 +633,16 @@
     "decimals": 9,
     "uniswapFee": 10000,
     "baseAddress": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
+    "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "isBaseTokenEth": false
+  },
+  "0x9ca6a77c8b38159fd2da9bd25bc3e259c33f5e39": {
+    "address": "0x9ca6a77c8b38159fd2da9bd25bc3e259c33f5e39",
+    "name": "The SporkDAO Token (PoS)",
+    "symbol": "SPORK",
+    "decimals": 18,
+    "uniswapFee": 10000,
+    "baseAddress": "0x9ca6a77c8b38159fd2da9bd25bc3e259c33f5e39",
     "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "isBaseTokenEth": false
   },
@@ -836,6 +856,16 @@
     "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "isBaseTokenEth": false
   },
+  "0x3b56a704c01d650147ade2b8cee594066b3f9421": {
+    "address": "0x3b56a704c01d650147ade2b8cee594066b3f9421",
+    "name": "Affyn",
+    "symbol": "FYN",
+    "decimals": 18,
+    "uniswapFee": 3000,
+    "baseAddress": "0x3b56a704c01d650147ade2b8cee594066b3f9421",
+    "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "isBaseTokenEth": false
+  },
   "0xb87904db461005fc716a6bf9f2d451c33b10b80b": {
     "address": "0xb87904db461005fc716a6bf9f2d451c33b10b80b",
     "name": "Alongside Crypto Market Index (PoS)",
@@ -843,6 +873,16 @@
     "decimals": 18,
     "uniswapFee": 3000,
     "baseAddress": "0xb87904db461005fc716a6bf9f2d451c33b10b80b",
+    "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "isBaseTokenEth": false
+  },
+  "0x034b2090b579228482520c589dbd397c53fc51cc": {
+    "address": "0x034b2090b579228482520c589dbd397c53fc51cc",
+    "name": "Vision Token (PoS)",
+    "symbol": "VISION",
+    "decimals": 18,
+    "uniswapFee": 3000,
+    "baseAddress": "0x034b2090b579228482520c589dbd397c53fc51cc",
     "quoteAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "isBaseTokenEth": false
   },

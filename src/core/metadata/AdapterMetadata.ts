@@ -48,6 +48,7 @@ import PricesUsdEthereumProtocolToken from '../../adapters/prices/products/usd/m
 import PricesUsdOptimismProtocolToken from '../../adapters/prices/products/usd/metadata/optimism.protocol-token.json'
 import PricesUsdPolygonProtocolToken from '../../adapters/prices/products/usd/metadata/polygon.protocol-token.json'
 import { Protocol } from '../../adapters/protocols'
+import SparkSparklendAdapterEthereumProtocolToken from '../../adapters/spark/products/sparklend-adapter/metadata/ethereum.protocol-token.json'
 import StargatePoolArbitrumLpToken from '../../adapters/stargate/products/pool/metadata/arbitrum.lp-token.json'
 import StargatePoolEthereumLpToken from '../../adapters/stargate/products/pool/metadata/ethereum.lp-token.json'
 import StargateVestingArbitrumVestingToken from '../../adapters/stargate/products/vesting/metadata/arbitrum.vesting-token.json'
@@ -523,6 +524,15 @@ export const MetadataFiles = new Map<string, Json>([
       fileKey: 'mendi',
     }),
     MendiFinanceBorrowLineaMendi,
+  ],
+  [
+    metadataKey({
+      protocolId: Protocol.Spark,
+      productId: 'sparklend-adapter',
+      chainId: Chain.Ethereum,
+      fileKey: 'protocol-token',
+    }),
+    SparkSparklendAdapterEthereumProtocolToken,
   ],
 ])
 

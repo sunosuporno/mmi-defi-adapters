@@ -3988,5 +3988,103 @@
       "symbol": "alETHwETH",
       "decimals": 18
     }
+  },
+  "0xf647da9e3619a8e951f5d5125a7e860c6d079c51": {
+    "protocolToken": {
+      "address": "0xf647da9e3619a8e951f5d5125a7e860c6d079c51",
+      "name": "USDV-crvUSD Convex Deposit",
+      "symbol": "cvxUSDVcrvUSD",
+      "decimals": 18
+    },
+    "underlyingToken": {
+      "address": "0x6dd32bb2fcea3db7608e17286b5d00f1b19a2ed8",
+      "name": "USDV-crvUSD",
+      "symbol": "USDVcrvUSD",
+      "decimals": 18
+    }
+  },
+  "0x85658f6e095b9e8715965311783deac1b8d96753": {
+    "protocolToken": {
+      "address": "0x85658f6e095b9e8715965311783deac1b8d96753",
+      "name": "crvUSD/sFRAX Convex Deposit",
+      "symbol": "cvxcrvsFRAX",
+      "decimals": 18
+    },
+    "underlyingToken": {
+      "address": "0x73a0cba58c19ed5f27c6590bd792ec38de4815ea",
+      "name": "crvUSD/sFRAX",
+      "symbol": "crvsFRAX",
+      "decimals": 18
+    }
+  },
+  "0x83aabee8efcf02e89aacf2bf23fe40930cc88653": {
+    "protocolToken": {
+      "address": "0x83aabee8efcf02e89aacf2bf23fe40930cc88653",
+      "name": "wETH/rETH Convex Deposit",
+      "symbol": "cvxwETHrETH",
+      "decimals": 18
+    },
+    "underlyingToken": {
+      "address": "0x9efe1a1cbd6ca51ee8319afc4573d253c3b732af",
+      "name": "wETH/rETH",
+      "symbol": "wETHrETH",
+      "decimals": 18
+    }
+  },
+  "0xebacfed2ba9896af52c06a76d086a10e2e95bd8f": {
+    "protocolToken": {
+      "address": "0xebacfed2ba9896af52c06a76d086a10e2e95bd8f",
+      "name": "crvUSD/sDAI Convex Deposit",
+      "symbol": "cvxcrvsDAI",
+      "decimals": 18
+    },
+    "underlyingToken": {
+      "address": "0xc55bcf5370e67fba281e2aac8937b4ea71e7785f",
+      "name": "crvUSD/sDAI",
+      "symbol": "crvsDAI",
+      "decimals": 18
+    }
+  },
+  "0x7881699ffc5e9eb0c9e6f09eee0c7c427f2323c7": {
+    "protocolToken": {
+      "address": "0x7881699ffc5e9eb0c9e6f09eee0c7c427f2323c7",
+      "name": "pyUSD/crvUSD Convex Deposit",
+      "symbol": "cvxPYcrvUSD",
+      "decimals": 18
+    },
+    "underlyingToken": {
+      "address": "0x625e92624bc2d88619accc1788365a69767f6200",
+      "name": "pyUSD/crvUSD",
+      "symbol": "PYcrvUSD",
+      "decimals": 18
+    }
+  },
+  "0xd39cf3f804c5fcbd7b487b61e68af19b1252fbb6": {
+    "protocolToken": {
+      "address": "0xd39cf3f804c5fcbd7b487b61e68af19b1252fbb6",
+      "name": "USDV-3crv Convex Deposit",
+      "symbol": "cvxUSDV3crv",
+      "decimals": 18
+    },
+    "underlyingToken": {
+      "address": "0x00e6fd108c4640d21b40d02f18dd6fe7c7f725ca",
+      "name": "USDV-3crv",
+      "symbol": "USDV3crv",
+      "decimals": 18
+    }
+  },
+  "0x6c366b4a0b59b3403c8ccec948fa7b6804551b72": {
+    "protocolToken": {
+      "address": "0x6c366b4a0b59b3403c8ccec948fa7b6804551b72",
+      "name": "crvUSD/stUSDT Convex Deposit",
+      "symbol": "cvxcrvstUSDT",
+      "decimals": 18
+    },
+    "underlyingToken": {
+      "address": "0x678053c553b963f83798b54d7f69dec086d527ba",
+      "name": "crvUSD/stUSDT",
+      "symbol": "crvstUSDT",
+      "decimals": 18
+    }
   }
 }

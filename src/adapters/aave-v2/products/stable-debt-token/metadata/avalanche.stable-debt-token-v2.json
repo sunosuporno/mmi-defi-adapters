@@ -69,20 +69,6 @@
       "decimals": 18
     }
   },
-  "0x3484408989985d68c9700dc1cfdfeae6d2f658cf": {
-    "protocolToken": {
-      "address": "0x3484408989985d68c9700dc1cfdfeae6d2f658cf",
-      "name": "Aave Avalanche Market stable debt WBTC",
-      "symbol": "stableDebtvWBTC",
-      "decimals": 8
-    },
-    "underlyingToken": {
-      "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC.e",
-      "decimals": 8
-    }
-  },
   "0x2920cd5b8a160b2addb00ec5d5f4112255d4ae75": {
     "protocolToken": {
       "address": "0x2920cd5b8a160b2addb00ec5d5f4112255d4ae75",

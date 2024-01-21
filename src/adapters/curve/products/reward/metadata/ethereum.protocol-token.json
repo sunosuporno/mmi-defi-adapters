@@ -3007,22 +3007,6 @@
       }
     ]
   },
-  "0x474D83Fc6c358242d8638Cb0f733E7B3a457a109": {
-    "protocolToken": {
-      "name": "Curve.fi Factory Crypto Pool: DUCK/ETH",
-      "decimals": 18,
-      "symbol": "DUCKETH-f",
-      "address": "0x474D83Fc6c358242d8638Cb0f733E7B3a457a109"
-    },
-    "underlyingTokens": [
-      {
-        "name": "Curve.fi Factory Crypto Pool: DUCK/ETH",
-        "decimals": 18,
-        "symbol": "DUCKETH-f",
-        "address": "0x91f2f1b9D9c7D838c87B687d2AcCD1f0bE8FaE5d"
-      }
-    ]
-  },
   "0x5AC6886Edd18ED0AD01C0B0910660637c551FBd6": {
     "protocolToken": {
       "name": "Curve.fi Factory Crypto Pool: BTRFLY/ETH",

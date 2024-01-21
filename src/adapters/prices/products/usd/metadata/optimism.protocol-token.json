@@ -67,6 +67,16 @@
     "quoteAddress": "0x4200000000000000000000000000000000000006",
     "isBaseTokenEth": false
   },
+  "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921": {
+    "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "uniswapFee": 10000,
+    "baseAddress": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "isBaseTokenEth": false
+  },
   "0x29faf5905bff9cfcc7cf56a5ed91e0f091f8664b": {
     "address": "0x29faf5905bff9cfcc7cf56a5ed91e0f091f8664b",
     "name": "Bankless Token",
@@ -317,16 +327,6 @@
     "quoteAddress": "0x4200000000000000000000000000000000000006",
     "isBaseTokenEth": false
   },
-  "0x8637725ada78db0674a679cea2a5e0a0869ef4a1": {
-    "address": "0x8637725ada78db0674a679cea2a5e0a0869ef4a1",
-    "name": "NFTEarthOFT",
-    "symbol": "NFTE",
-    "decimals": 18,
-    "uniswapFee": 10000,
-    "baseAddress": "0x8637725ada78db0674a679cea2a5e0a0869ef4a1",
-    "quoteAddress": "0x4200000000000000000000000000000000000006",
-    "isBaseTokenEth": false
-  },
   "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9": {
     "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
     "name": "Synth sUSD",
@@ -447,16 +447,6 @@
     "quoteAddress": "0x4200000000000000000000000000000000000006",
     "isBaseTokenEth": false
   },
-  "0x5a5fff6f753d7c11a56a52fe47a177a87e431655": {
-    "address": "0x5a5fff6f753d7c11a56a52fe47a177a87e431655",
-    "name": "Synapse",
-    "symbol": "SYN",
-    "decimals": 18,
-    "uniswapFee": 10000,
-    "baseAddress": "0x5a5fff6f753d7c11a56a52fe47a177a87e431655",
-    "quoteAddress": "0x4200000000000000000000000000000000000006",
-    "isBaseTokenEth": false
-  },
   "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
     "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
     "name": "Tether USD",
@@ -514,26 +504,6 @@
     "decimals": 8,
     "uniswapFee": 10000,
     "baseAddress": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-    "quoteAddress": "0x4200000000000000000000000000000000000006",
-    "isBaseTokenEth": false
-  },
-  "0x3e29d3a9316dab217754d13b28646b76607c5f04": {
-    "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
-    "name": "Alchemix ETH",
-    "symbol": "alETH",
-    "decimals": 18,
-    "uniswapFee": 3000,
-    "baseAddress": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
-    "quoteAddress": "0x4200000000000000000000000000000000000006",
-    "isBaseTokenEth": false
-  },
-  "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921": {
-    "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
-    "name": "Balancer",
-    "symbol": "BAL",
-    "decimals": 18,
-    "uniswapFee": 3000,
-    "baseAddress": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
     "quoteAddress": "0x4200000000000000000000000000000000000006",
     "isBaseTokenEth": false
   },
@@ -627,6 +597,16 @@
     "quoteAddress": "0x4200000000000000000000000000000000000006",
     "isBaseTokenEth": false
   },
+  "0xb12c13e66ade1f72f71834f2fc5082db8c091358": {
+    "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
+    "name": "ROOBEE",
+    "symbol": "ROOBEE",
+    "decimals": 18,
+    "uniswapFee": 3000,
+    "baseAddress": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "isBaseTokenEth": false
+  },
   "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49": {
     "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
     "name": "Synth sETH",
@@ -644,16 +624,6 @@
     "decimals": 18,
     "uniswapFee": 3000,
     "baseAddress": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
-    "quoteAddress": "0x4200000000000000000000000000000000000006",
-    "isBaseTokenEth": false
-  },
-  "0x1f514a61bcde34f94bc39731235690ab9da737f7": {
-    "address": "0x1f514a61bcde34f94bc39731235690ab9da737f7",
-    "name": "Tarot",
-    "symbol": "TAROT",
-    "decimals": 18,
-    "uniswapFee": 3000,
-    "baseAddress": "0x1f514a61bcde34f94bc39731235690ab9da737f7",
     "quoteAddress": "0x4200000000000000000000000000000000000006",
     "isBaseTokenEth": false
   },
@@ -677,16 +647,6 @@
     "quoteAddress": "0x4200000000000000000000000000000000000006",
     "isBaseTokenEth": false
   },
-  "0x8f69ee043d52161fd29137aedf63f5e70cd504d5": {
-    "address": "0x8f69ee043d52161fd29137aedf63f5e70cd504d5",
-    "name": "The Doge NFT",
-    "symbol": "DOG",
-    "decimals": 18,
-    "uniswapFee": 3000,
-    "baseAddress": "0x8f69ee043d52161fd29137aedf63f5e70cd504d5",
-    "quoteAddress": "0x4200000000000000000000000000000000000006",
-    "isBaseTokenEth": false
-  },
   "0x0b2c639c533813f4aa9d7837caf62653d097ff85": {
     "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
     "name": "USD Coin",
@@ -694,6 +654,16 @@
     "decimals": 6,
     "uniswapFee": 3000,
     "baseAddress": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "isBaseTokenEth": false
+  },
+  "0x6f620ec89b8479e97a6985792d0c64f237566746": {
+    "address": "0x6f620ec89b8479e97a6985792d0c64f237566746",
+    "name": "WePiggy Coin",
+    "symbol": "WPC",
+    "decimals": 18,
+    "uniswapFee": 3000,
+    "baseAddress": "0x6f620ec89b8479e97a6985792d0c64f237566746",
     "quoteAddress": "0x4200000000000000000000000000000000000006",
     "isBaseTokenEth": false
   },

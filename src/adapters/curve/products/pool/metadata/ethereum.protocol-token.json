@@ -3119,6 +3119,41 @@
     ],
     "poolAddress": "0x5a59Fd6018186471727FAAeAE4e57890aBC49B08"
   },
+  "0xeb07fcd7a8627281845ba3acbed24435802d4b52": {
+    "protocolToken": {
+      "name": "Curve.fi Factory USD Metapool: PUSd",
+      "decimals": 18,
+      "symbol": "PUSd-3CRV3CRV-f",
+      "address": "0xeb07fcd7a8627281845ba3acbed24435802d4b52"
+    },
+    "underlyingTokens": [
+      {
+        "address": "0x466a756e9a7401b5e2444a3fcb3c2c12fbea0a54",
+        "name": "Stablecoin",
+        "symbol": "PUSd",
+        "decimals": 18
+      },
+      {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18
+      },
+      {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6
+      }
+    ],
+    "poolAddress": "0xeb07FcD7A8627281845ba3aCbed24435802d4B52"
+  },
   "0x8ee017541375f6bcd802ba119bddc94dad6911a1": {
     "protocolToken": {
       "name": "Curve.fi Factory USD Metapool: PUSd",
@@ -3601,7 +3636,7 @@
       {
         "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
         "name": "Euro Coin",
-        "symbol": "EUROC",
+        "symbol": "EURC",
         "decimals": 6
       }
     ],
@@ -3798,7 +3833,7 @@
       {
         "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
         "name": "Euro Coin",
-        "symbol": "EUROC",
+        "symbol": "EURC",
         "decimals": 6
       }
     ],
@@ -4545,29 +4580,6 @@
       }
     ],
     "poolAddress": "0xcD0148e3f3350f4B98A48535f63A38fC630e80f1"
-  },
-  "0xfc8c34a3b3cfe1f1dd6dbccec4bc5d3103b80ff0": {
-    "protocolToken": {
-      "name": "Curve.fi Factory Plain Pool: FLR/EURS",
-      "decimals": 18,
-      "symbol": "FLREURS-f",
-      "address": "0xfc8c34a3b3cfe1f1dd6dbccec4bc5d3103b80ff0"
-    },
-    "underlyingTokens": [
-      {
-        "address": "0x5e5d9aeec4a6b775a175b883dca61e4297c14ecb",
-        "name": "Florin",
-        "symbol": "FLR",
-        "decimals": 18
-      },
-      {
-        "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
-        "name": "STASIS EURS Token",
-        "symbol": "EURS",
-        "decimals": 2
-      }
-    ],
-    "poolAddress": "0xfC8c34a3B3CFE1F1Dd6DBCCEC4BC5d3103b80FF0"
   },
   "0x6d09c6513e620778632d36784f5c3b4b2309bd96": {
     "protocolToken": {
@@ -6540,7 +6552,7 @@
       {
         "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
         "name": "Euro Coin",
-        "symbol": "EUROC",
+        "symbol": "EURC",
         "decimals": 6
       },
       {
@@ -6747,29 +6759,6 @@
       }
     ],
     "poolAddress": "0xDaD60C5B748306BA5a0c9a3c3482A8D1153DAd2a"
-  },
-  "0x91f2f1b9d9c7d838c87b687d2accd1f0be8fae5d": {
-    "protocolToken": {
-      "name": "Curve.fi Factory Crypto Pool: DUCK/ETH",
-      "decimals": 18,
-      "symbol": "DUCKETH-f",
-      "address": "0x91f2f1b9d9c7d838c87b687d2accd1f0be8fae5d"
-    },
-    "underlyingTokens": [
-      {
-        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "decimals": 18
-      },
-      {
-        "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
-        "name": "Unit Protocol",
-        "symbol": "DUCK",
-        "decimals": 18
-      }
-    ],
-    "poolAddress": "0xd8C49617e6A2C7584Ddbeab652368ee84954BF5c"
   },
   "0xe160364fd8407ffc8b163e278300c6c5d18ff61d": {
     "protocolToken": {
@@ -10183,6 +10172,29 @@
     ],
     "poolAddress": "0x154B0eCD38078819084E449eA1a657728fd37e43"
   },
+  "0xd2cfa4dd8c2b6c2982d982525b2ec3cf11ede4be": {
+    "protocolToken": {
+      "name": "Curve.fi Factory Crypto Pool: LLAMAwnft/ETH",
+      "decimals": 18,
+      "symbol": "wLLAMAETH-f",
+      "address": "0xd2cfa4dd8c2b6c2982d982525b2ec3cf11ede4be"
+    },
+    "underlyingTokens": [
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      {
+        "address": "0x4d7564f1272e24111280918b8ae4df9953a6253f",
+        "name": "The Llamas Wrapped NFT",
+        "symbol": "LLAMAwnft",
+        "decimals": 18
+      }
+    ],
+    "poolAddress": "0xaCf9cc3b3e8F4031131CD72e40a0FdAa99d3E209"
+  },
   "0x4dece678ceceb27446b35c672dc7d61f30bad69e": {
     "protocolToken": {
       "name": "Curve.fi Factory Plain Pool: crvUSD/USDC",
@@ -11268,5 +11280,34 @@
       }
     ],
     "poolAddress": "0x9FeE65D5A627e73212989c8BbEdC5Fa5Cae3821F"
+  },
+  "0x80441ed630a10f2a36955c993c2d45bd9f848af5": {
+    "protocolToken": {
+      "name": "GMAC/ETH/USDC",
+      "decimals": 18,
+      "symbol": "GMACTri",
+      "address": "0x80441ed630a10f2a36955c993c2d45bd9f848af5"
+    },
+    "underlyingTokens": [
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      {
+        "address": "0xd96e84ddbc7cbe1d73c55b6fe8c64f3a6550deea",
+        "name": "Gemach",
+        "symbol": "GMAC",
+        "decimals": 18
+      },
+      {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6
+      }
+    ],
+    "poolAddress": "0x80441ed630A10f2A36955c993c2D45bd9F848AF5"
   }
 }

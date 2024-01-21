@@ -41,20 +41,6 @@
       "decimals": 6
     }
   },
-  "0x078f358208685046a11c85e8ad32895ded33a249": {
-    "protocolToken": {
-      "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-      "name": "Aave Avalanche WBTC",
-      "symbol": "aAvaWBTC",
-      "decimals": 8
-    },
-    "underlyingToken": {
-      "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC.e",
-      "decimals": 8
-    }
-  },
   "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8": {
     "protocolToken": {
       "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
@@ -94,6 +80,20 @@
       "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
       "name": "Aave Token",
       "symbol": "AAVE.e",
+      "decimals": 18
+    }
+  },
+  "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97": {
+    "protocolToken": {
+      "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
+      "name": "Aave Avalanche WAVAX",
+      "symbol": "aAvaWAVAX",
+      "decimals": 18
+    },
+    "underlyingToken": {
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
       "decimals": 18
     }
   },
